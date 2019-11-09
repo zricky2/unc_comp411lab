@@ -1,3 +1,5 @@
+Functions and Strings in C
+
 Exercise 1
 For the first version of sorting strings, you will implement the primary data structure as a 2-dimensional array Strings[NUM][LEN], where NUM is the number of strings, and LEN is the maximum length allowed for the string: the first index i gives you the i-th string, and the second index j gives you the j-th character within that string.
 
